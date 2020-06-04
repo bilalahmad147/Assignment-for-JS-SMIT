@@ -178,3 +178,31 @@
 
 // condition 2 and 4 is true.
 
+
+// var x = prompt("enter char :");
+// if (x >= 'A' && x <= 'Z'){
+//     alert("this char is on upper case.");
+// }
+// else if (x >= 'a' && x <= 'z'){
+//     alert("this char is on lower case.");
+// }
+// else{
+//     alert("Not a char.");
+// }
+
+// var a = +prompt("enter number");
+// var b = +prompt("enter number");
+// if (a > b) {
+//     document.write(a);
+// }
+// else if ( a < b){
+//     document.write(b);
+// }
+// else if ( a === b){
+//     document.write(b);
+// }
+// else{
+//     alert("incorrect command.");
+// }
+
+
