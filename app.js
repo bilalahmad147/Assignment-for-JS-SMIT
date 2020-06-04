@@ -115,3 +115,66 @@
 // document.write("<br>item charges is "+ shipping);
 // document.write("<br>total chrages is " + total);
 
+
+// var cities = ["karachi", "lahore", "multan", "sahiwal"];
+// var city = prompt("enter city name :");
+// if (city === "karachi"){
+//     alert("welcome to city of lites.");
+// }
+// else if (city === "lahore"){
+//     alert("welcome to heart of Pakistan.");
+// }
+// else if (city === "multan"){
+//     alert("welcome to city of caints.");
+// }
+// else if (city === "sahiwal"){
+//     alert("welcome among loving people.");
+// }
+// else{
+//     alert("enter right name of city.");
+// }
+
+
+// var gender = prompt("enter gender: 'm' for male and 'f' for female");
+// if (gender === "m"){
+//     alert("welcome you here Sir");
+// }
+// else if ( gender === "f"){
+//     alert("welcome you here Mam");
+// }
+// else{
+//     alert("enter right command.");
+// }
+
+// var fuel = +prompt("enter remaining fuel :");
+// if ( fuel < 0.25){
+//     alert("Please refill the fuel in your car");
+// }
+// else{
+//     alert("fuel is enough.");
+// }
+
+
+// var a = 4;
+// if (++a === 5) {
+//     alert("given condition for variable a is true");
+// }
+
+// true
+
+// var c = 12;
+// if (c++ === 13) {
+//     alert("condition 1 is true");
+// }
+// if (c === 13) {
+//     alert("condition 2 is true");
+// }
+// if (++c < 14) {
+//     alert("condition 3 is true");
+// } if (c === 14) {
+//     alert("condition 4 is true");
+// }
+
+
+// condition 2 and 4 is true.
+
