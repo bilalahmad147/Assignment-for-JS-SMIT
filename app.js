@@ -205,4 +205,17 @@
 //     alert("incorrect command.");
 // }
 
+// var passsword = "12345";
+// var inputPassword = prompt("enter password");
+// if (passsword === inputPassword){
+//     alert("Correct Password");
+// }
+// else if (inputPassword === ""){
+//     alert("enter Password");
+// }
+// else{
+//     alert("inCorrect Password");
+// }
+
+
 
