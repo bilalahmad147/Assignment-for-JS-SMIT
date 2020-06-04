@@ -217,5 +217,48 @@
 //     alert("inCorrect Password");
 // }
 
+// var greeting;
+// var hour = 13;
+// if (hour < 18) {
+//     greeting = "Good day";
+//     alert(greeting);
+// }
+// else {
+//     greeting = "Good evening";
+//     alert(greeting);
+// }
+
+
+// Arrays Chapter
+
+
+// var names = ["uqman", "jawad", "bilal", "zubair", "talha"];
+
+// var numbers = [1,2,3,4,5,6,7];
+
+// var qualification = ["SSC"," HSC"," BCS"," BS"," BCOM"," MS"," M. Phil"," PhD"];
+// document.write("Qualification : <br> ")
+// for (var i=1; i<qualification.length; i++){
+//     document.write(i + " : " + qualification[i] + "<br>");
+// }
+
+// var names = ["bilal", "zubair", "talha"];
+// var marks = [300, 350, 400];
+// var totalMarks = 500;
+// for (var i = 0,j = 0; i < name.length, j < marks.length ; i++, j++){
+//     document.write("Score of " + names[i] + " and marks is " + marks[j]+ ".  Percentage is " + (marks[j]/500 * 100) + "<br>") ;
+// }
+
+// var marks = [480,310,420,270,350,120,380];
+// marks.sort();
+// document.write(marks);
+
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+var energy = fruits.join();
+document.write(energy);
+console.log(typeof(fruits));
+console.log(typeof(energy));
+
+
 
 
