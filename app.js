@@ -253,12 +253,74 @@
 // marks.sort();
 // document.write(marks);
 
-var fruits = ["Banana", "Orange", "Apple", "Mango"];
-var energy = fruits.join();
-document.write(energy);
-console.log(typeof(fruits));
-console.log(typeof(energy));
+// var fruits = ["Banana", "Orange", "Apple", "Mango"];
+// var energy = fruits.join();
+// document.write(energy);
+// console.log(typeof(fruits));
+// console.log(typeof(energy));
+
+// var multiDimensionalArrays = [[], [], [], [],[]];
+
+// var multiDimensionalArrays = [[0, 1, 2, 3], [1, 0, 1, 2], [2, 1, 0, 1]];
+// document.write(multiDimensionalArrays[0] + "<br>" + multiDimensionalArrays[1] + "<br>" + multiDimensionalArrays[2]);
+
+// for (var i=1; i<11; i++){
+//     document.write(i + "<br>") ;
+// }
+
+// var number = +prompt("enter num for table :");
+// var len = +prompt("enter length for table :");
+// for (var i=1; i<= len; i++){
+//     document.write(number + " * " + i + " = " + number*i + " <br>");
+// }
+
+// var fruits = ["apple","banana","mango","orange","strawberry"];
+// for (var i=0; i<fruits.length; i++){
+//     document.write(fruits[i] + "<br>");
+// }
+// document.write("Elements at index number 0 " +" is " + fruits[0] + "<br>");
+// document.write("Elements at index number 1 " + " is " + fruits[1] + "<br>");
+// document.write("Elements at index number 2" +" is " + fruits[2] + "<br>");
+// document.write("Elements at index number 3" +" is " + fruits[3] + "<br>");
+// document.write("Elements at index number 4" +" is " + fruits[4] + "<br>");
+
+// for (var i=1; i<16; i++){
+//     document.write(i + ",") ;
+// }
+
+// for (var i=10; i>0; i--){
+//     document.write(i + ",") ;
+// }
+
+// for (var i=0; i<21; i=i + 2){
+//     document.write(i + ",") ;
+// }
+
+// for (var i=1; i<21; i=i + 2){
+//     document.write(i + ",") ;
+// }
+
+// var a = ["cake", "applepie", "coockie", "chips", "patties"];
+// var b = prompt("welcome here sir! what you want :");
+// var c = false;
+// for (var i=0; i<a.length; i++){
+//     if (b === a[i]){
+//         alert(b + " is avilable at index " + i );
+//         c = true;
+//         break;
+//     }
+// }
+// if (c === false){
+//     alert(b + " is not avilable in bakery.");
+// }
 
 
+// var a= [24, 53, 78, 91, 12];
+// var b = a.sort();
+// alert(lastIndexOf(b));
+
+// for (var i=0; i<101; i=i + 5){
+//     document.write(i + ",") ;
+// }
 
 
